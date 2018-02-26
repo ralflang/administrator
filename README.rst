@@ -2,12 +2,17 @@
  What is Administrator?
 ===================
 
+This is intended as a drop-in testbed for Admin Screen experiments without breaking existing stuff,
+UI changes, usage of controllers and routes, maybe some RPC POC.
+This will most likely not see release as-is.
+
+
 :Contact: horde@lists.horde.org
 
 .. contents:: Contents
 .. section-numbering::
 
-Administrator is ...
+Administrator is an alternative/add-on admin UI for Horde 5/Horde Git.
 
 This software is OSI Certified Open Source Software. OSI Certified is a
 certification mark of the `Open Source Initiative`_.
